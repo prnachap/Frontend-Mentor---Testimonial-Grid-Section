@@ -70,7 +70,7 @@ body{
 /* review container - grid */
 .review-container{
     display:grid;
-    grid-template-columns: 300px 300px 250px 250px;
+    grid-template-columns: 250px 300px 250px 250px;
     grid-template-areas: "review1 review1 review2 review5"
                          "review3 review4 review4 review5";
     justify-content:center;
@@ -186,7 +186,7 @@ body{
     }
     .review-container{
         display:grid;
-        grid-template-columns: 200px 200px 200px 200px;
+        grid-template-columns: 200px 220px 200px 200px;
         grid-template-areas: "review1 review1 review2 review5"
                              "review3 review4 review4 review5";
 }}
