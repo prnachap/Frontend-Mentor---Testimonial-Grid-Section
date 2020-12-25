@@ -29,11 +29,13 @@ body{
     width: 90vw;
     max-width: 144rem;
     margin:0 auto;
+    margin-top: 12rem;
     
-    display: flex;
+    
+    /* display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
  
   
     height: 100vh;
@@ -164,6 +166,7 @@ body{
 /* footer */
 .attribution{
     margin: 4rem 0;
+    text-align: center;
 }
 
 .attribution a{
